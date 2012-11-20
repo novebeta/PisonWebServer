@@ -1,0 +1,23 @@
+[ISNAUTOITSTUDIO]
+name=PisonWebServer
+mainfile=PisonWebServer.au3
+author=novebeta
+opened=
+time=1387489259
+projectopened=4
+testparam=
+compile_source=false
+compile_x64=false
+compile_openaftercompile=true
+compile_runaftercompile=false
+compile_useupx=true
+compile_console=true
+compile_compression=high
+
+date=19.11.2012
+comment=
+studioversion=0.88 BETA
+version=1.0
+compile_exeicon=C:\ISN AutoIt Studio\Projects\PisonWebServer\Images\1231686170190013628kattekrab_mainframe_svg_thumb.ico
+compile_exename=PisonWebServer
+lastopendate=19.11.2012 21:58
